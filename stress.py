@@ -1,5 +1,7 @@
 #!/bin/python3
 #Script to stress CPU / RAM and disk
+#NOT ORIGINAL CODE BY ME. COPIED TO LEARN PYTHON
+#ALL CREDIT TO ORIGINAL AUTHOR
 
 import os
 import argparse
